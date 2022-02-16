@@ -16,4 +16,6 @@ The following techniques have been used:
  - All the above said modelling techniques are tried and evaluated. The final metric used to evaluate is mean squared error.
 
 ## To excute the script
+Use the file env.yml to setup a python virtual env with the required package dependenies
 python < scriptname.py >
+
