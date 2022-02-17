@@ -23,5 +23,5 @@ The following techniques have been used:
 
 ## Steps to be traced to execute the script
  - Setup a python virtual env with the required package dependencies
- - python < scriptname.py >
+ - Execute the script using: python < scriptname.py >
 
