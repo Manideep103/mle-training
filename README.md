@@ -10,12 +10,18 @@ The following techniques have been used:
  - Random Forest
 
 ## Steps performed
+ - Import all the requied modules
+ - Setup path variables from which dataset can be read
+ - Define the functions required to read the dataset as dataframe object
  - We prepare and clean the data. We check and impute for missing values.
+ - Perform Feature Engineeing to create new features
  - Features are generated and the variables are checked for correlation.
  - Multiple sampling techinuqies are evaluated. The data set is split into train and test.
- - All the above said modelling techniques are tried and evaluated. The final metric used to evaluate is mean squared error.
+ - All the above said modelling techniques are tried and evaluated. 
+ - Perform hyperparameter tunning
+ - The final metric used to evaluate is mean squared error.
 
 ## Steps to be traced to execute the script
- - Use the file env.yml to setup a python virtual env with the required package dependenies
+ - Setup a python virtual env with the required package dependencies
  - python < scriptname.py >
 
