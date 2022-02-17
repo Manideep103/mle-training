@@ -15,7 +15,7 @@ The following techniques have been used:
  - Multiple sampling techinuqies are evaluated. The data set is split into train and test.
  - All the above said modelling techniques are tried and evaluated. The final metric used to evaluate is mean squared error.
 
-## Step to be traced to excute the script
+## Steps to be traced to execute the script
  - Use the file env.yml to setup a python virtual env with the required package dependenies
  - python < scriptname.py >
 
