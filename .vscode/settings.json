@@ -2,10 +2,6 @@
     "python.defaultInterpreterPath": "/home/manideep/miniconda3/envs/mle-dev/bin/python3.8",
     "editor.formatOnSave": true,
     "python.linting.lintOnSave": true,
-    // "python.sortImports.path": "/home/manideep/miniconda3/envs/mle-dev/bin",
-    // "editor.codeActionsOnSave": {
-    //     "python.sortImports": true,
-    // },
     "python.formatting.blackPath": "black",
     "python.formatting.provider": "black",
     "python.linting.enabled": true,
